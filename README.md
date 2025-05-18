@@ -6,7 +6,7 @@
 * 🧑‍💻 **Link GitHub:** [https://github.com/Thinhskyduck/FinalProject-CrossPlatform.git](https://github.com/Thinhskyduck/FinalProject-CrossPlatform.git)
 * 🌐 **Website Quản lý (Admin):** [https://admin-ecommerce-a9427.web.app/](https://admin-ecommerce-a9427.web.app/)
 * 🛍️ **Website Khách hàng:** [https://cuoikydanentang.web.app/](https://cuoikydanentang.web.app/)
-
+* 🚀 Backend FastAPI (triển khai trên AWS App Runner): https://tteaqwe3g9.ap-southeast-1.awsapprunner.com/docs
 > 🔐 **Tài khoản đăng nhập mẫu**
 >
 > * Email: `thinhskyduck@gmail.com`
