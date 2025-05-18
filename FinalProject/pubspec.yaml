@@ -1,0 +1,55 @@
+name: cross_platform_mobile_app_development
+description: "A new Flutter project."
+publish_to: 'none'
+
+
+version: 0.1.0
+
+environment:
+  sdk: ^3.6.1
+
+dependencies:
+
+  flutter:
+    sdk: flutter
+
+  flutter_web_plugins:
+    sdk: flutter
+
+  get: ^4.6.6
+
+  cupertino_icons: ^1.0.8
+  image_picker: ^0.8.7+4
+  carousel_slider: ^4.2.0
+  google_fonts: ^6.1.0
+  card_swiper: ^3.0.1
+  smooth_page_indicator: ^1.1.0
+  flutter_rating_bar: ^4.0.1
+  firebase_auth: ^5.5.1
+  cloud_firestore: ^5.6.5
+  firebase_core: ^3.12.1
+  intl: ^0.18.1
+  image_picker_web: ^2.0.0
+  transparent_image: ^2.0.1
+  dio: ^5.3.3
+  shared_preferences: ^2.0.0
+  universal_html: ^2.2.4
+  cached_network_image: ^3.2.3
+  coupon_uikit_flutter:
+    path: packages/coupon_uikit_flutter
+  photo_view: ^0.14.0
+  flutter_countdown_timer: ^4.1.0
+  web_socket_channel: ^3.0.1
+  animate_do: ^3.3.4
+  mime: ^1.0.0
+  http_parser: ^4.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  assets:
+    - assets/
+  uses-material-design: true
